@@ -1,2 +1,2 @@
-# api-rest-flask
-Tutorial para desenvolver uma API em flask no padrão REST
+# api-rest-django
+Tutorial para desenvolver uma API em Django no padrão REST
