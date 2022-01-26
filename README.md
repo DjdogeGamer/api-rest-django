@@ -1,6 +1,6 @@
 # api-rest-django
 
-Tutorial para desenvolver uma API em django no padrão REST
+Desenvolvimento uma API em django no padrão REST
 
 * https://book-register-api.herokuapp.com
 
